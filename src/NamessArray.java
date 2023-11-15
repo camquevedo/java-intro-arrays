@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class NamessArray {
+    //registro de un comentario añadido desde localg
 
     public static void main(String[] args) {
         // 1. Crear un array de cadenas llamado `nombres` con un tamaño de 5.
