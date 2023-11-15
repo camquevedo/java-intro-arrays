@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class NamessArray {
     //registro de un comentario añadido desde local
     // pero no me gusto, te chingas
+    // y re contra no me guto
 
     public static void main(String[] args) {
         // 1. Crear un array de cadenas llamado `nombres` con un tamaño de 5.
